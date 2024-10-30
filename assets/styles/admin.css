@@ -1,0 +1,35 @@
+.mailroad-switch-admin-emails-wrapper {
+  display: none;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-section-description {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #646970;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-inner-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-inner-wrapper label {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-inner-wrapper label span {
+  font-weight: 600;
+  color: #646970;
+  margin-bottom: 3px;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-inner-wrapper label input {
+  min-width: 350px;
+}
+.mailroad-switch-admin-emails-wrapper .mailroad-switch-admin-emails-inner-wrapper small {
+  color: #646970;
+}
+
+/*# sourceMappingURL=admin.css.map */
